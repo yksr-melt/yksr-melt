@@ -48,33 +48,8 @@
 
 > **All-in-one Discord Bot**
 
-- 🎵 Music
-- 🛡️ Moderation
-- ⚙️ Utility
-- 🗄️ Prisma
-- 🤖 Discord.js
-
 Repository:
 https://github.com/ibutya/melt-bot
-
----
-
-# 🌱 Currently Learning
-
-- 🐍 Python
-- ⚛️ React
-- 📘 TypeScript
-- ▲ Next.js
-- 🤖 LLM Engineering
-
----
-
-# 💬 About Me
-
-- 🤖 I build Discord bots.
-- ⚡ I enjoy backend development and automation.
-- 🧠 Always learning something new.
-- 🐛 Professional Bug Creator.
 
 ---
 
