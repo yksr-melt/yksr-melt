@@ -1,11 +1,5 @@
 # Hi, I'm ibutya! 👋
 
-```text
-Discord Bot Developer
-Building random stuff with Node.js.
-Currently learning TypeScript, React, Next.js, Python & LLMs.
-```
-
 > **"I don't need branches. I commit directly to master because I live on the edge."** 🚀
 
 ---
