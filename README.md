@@ -1,4 +1,4 @@
-# Hi, I'm ibutya! 👋
+# Hi, I'm Yukishiro! 👋
 
 > **"I don't need branches. I commit directly to master because I live on the edge."** 🚀
 
