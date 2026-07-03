@@ -48,8 +48,7 @@
 
 > **All-in-one Discord Bot**
 
-Repository:
-https://github.com/ibutya/melt-bot
+[Repository](https://github.com/yksr-melt/melt-bot)
 
 ---
 
