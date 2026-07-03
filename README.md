@@ -32,12 +32,12 @@
 # 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibutya&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibutya&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yksr-melt&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yksr-melt&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ibutya&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=yksr-melt&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
